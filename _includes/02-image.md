@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Cut image from regex crosswords](https://regexcrossword.com/img/achievements/cut.png)
